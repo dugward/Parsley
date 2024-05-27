@@ -31,7 +31,7 @@ function buttonEnter() {
         // client info for google api
         gapi.client
             .init({
-                apiKey: "AIzaSyDHUJ-trLzZU2KkIRdBLXDmp0n8TKBSqzE",
+                apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
                 discoveryDocs: [
                     "https://language.googleapis.com/$discovery/rest?version=v1beta2",
                 ],
